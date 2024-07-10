@@ -19,7 +19,7 @@ def RollDice():
 
 countarray = []
 
-for i in range (10000):
+for i in range (100000):
 
     tile = 0
     count = 1
